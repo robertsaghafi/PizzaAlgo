@@ -1,0 +1,10 @@
+Step-by-stpe instructions as how to order a pizza:
+
+1- Decide On A Pizza Outlet
+2- Go Through The Menu
+3- Choosing The Pizza of choice
+4- Add Topings (if desired)
+5- Contact The AlgoPizza's Phone Number 
+6- Place The Order
+7- Make The Payment
+8- Receive The Pizza Upon Delivery  
