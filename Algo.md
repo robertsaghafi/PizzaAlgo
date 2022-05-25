@@ -8,7 +8,9 @@ Step-by-stpe instructions as how to order a pizza:
 6- Add Topings (if desired)
 7- Pick Up The Phone //added 25/5/2022//
 8- Find The Contact Information //added 25/5/2022//
-7- Contact The AlgoPizza's Phone Number 
+7- Contact The AlgoPizza
+    7.1 Via Phone; or,
+    7.2 Online (Via The Mobile App) //added 25/5/2022//
 8- Place The Order
 9- Make The Payment
 10- Receive The Pizza Upon Delivery  
