@@ -1,7 +1,10 @@
+# Test Branch Updates (25 MAY 2022)
 Step-by-stpe instructions as how to order a pizza:
 
 1- Decide On A Pizza Outlet
 2- Go Through The Menu
+    2.1 Open The Paper Menue; or,
+    2.2 Checkout the Online Menue on www.algopizza.us 
 3- Choose the size of the Pizza that you desire //added 25/5/2022// 
 4- Choose The Pizza of Choice
 5- Choose the Pizza Style //added 25/5/2022//
